@@ -3,6 +3,6 @@
 
 int main() {
 
-printf("hello world ") ; 
+printf("hello world from nes") ; 
 return 0 ; 
 }
